@@ -14,7 +14,7 @@ pdfminer, pandas, regular expression.
 Download and save the file in any location.
 ```bash
 1. Open terminal or cmd.
-2. Goto the location in the location where the file is saved.
+2. Goto the location where the file is saved.
 3. Run the command : python name.py 
 ```
 Check the output csv file location in your pc.
